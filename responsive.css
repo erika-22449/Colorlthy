@@ -1,0 +1,355 @@
+
+
+
+
+@media(max-width:499px){
+
+
+
+    .spkv-image{
+        
+        width:100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .kv-image{
+        display:none;
+    }
+
+
+
+    .kv-area{
+        text-align: center;
+        
+        
+      }
+
+
+
+      .header-logo{
+      
+        padding-top: 30px;
+        width:20%;
+      }
+
+      .concept-box{
+        display:flex;
+        flex-direction: column-reverse; 
+        width:80%;
+        
+
+      }
+
+  
+    
+
+
+
+ 
+
+    .cyumon{
+        display: inline-block;
+        
+        margin-bottom:31px;
+        margin-right:20px;
+        margin-left:20px;
+        padding:18px 80px;
+        font-size:23px;
+    }
+
+    .sokyubtn{
+        margin-bottom:50px; 
+    }
+
+    .midashipc{
+        display:none;
+    }
+
+    .concept-text{
+        font-size:18px;
+        text-align: left;
+        line-height: 30px;
+        width:100%;
+    }
+
+    .concept-box{
+       padding-top:36px; 
+       padding-bottom:0px;
+    }
+
+    .graph{
+        width:70%;
+        margin: 0 auto;
+    }
+
+
+
+    .present{
+        display:flex;
+        flex-direction: column;  
+ 
+        
+        background-color: #f6f2ed;
+        border-radius: 40px;
+
+        margin: auto;
+        text-align: center;
+    }
+
+    .present-title{
+        padding:0px 0px 60px;
+        
+    }
+
+    .title{
+        width:80%;
+    }
+
+    .title-sp{
+        width:80%;
+        margin: 0 auto;
+    }
+
+    .present-takenoko{
+        display:block;
+        margin: 0 auto;
+        margin-bottom:30px;
+    }
+
+    .takonoko-image{
+        width:100%;
+    }
+
+    .natsumikan-image{
+        width:100%;
+    }
+
+    .ichigo-takenoko{
+        display:block;
+        margin: 0 auto;
+        margin-bottom:30px;
+    }
+
+    .present-natsumikan{
+        display:block;
+        margin: 0 auto;
+        margin-bottom:30px;
+    }
+
+    .sizuru{
+        display:block;
+        margin: 0 auto;
+        padding-top:20px;
+        
+        width:80%;
+    }
+
+
+
+
+
+    .text p{
+        
+        margin:0 auto;
+        text-align: left;
+        padding-top:5px
+        
+    }
+
+  
+
+    .takenoko-title-pc{
+        display:none; 
+
+    }
+
+    .natsumikan-title-pc{
+        display:none; 
+    }
+
+    .ichigo-title-pc{
+        display:none;
+    }
+
+    .title-pc{
+        display:none;
+
+    }
+
+
+.contents-area{
+    
+    background: url(./pc/background-image03.jpg)center top/cover no-repeat;
+}
+
+    .nakanoyasai-pc{
+        display:none;
+    }
+
+    .cyukan{
+        margin-top:68px;
+        margin-right:20px;
+        margin-left:20px;
+        padding:19px 40px;
+        font-size:15px;
+    }
+
+
+
+
+
+
+    .title_voicepc{
+        display:none;
+    }
+
+    .title_voicesp{
+        width:80%;
+       
+        padding-top:101px;
+        padding-bottom:70px;
+        
+    }
+
+    .voice-title{
+        padding-top:initial;
+        padding-bottom:initial;
+        text-align: center;
+    }
+
+
+
+    .voice{
+        display:flex;
+        flex-direction: column;   
+        padding-bottom:40px;  
+        
+    }
+
+    .voice-image{
+        width:100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+   .aa{
+    width:100%;
+    padding-bottom:30px;
+    
+   }
+
+    .voice-text{
+        margin: 0 auto;
+        text-align: center;
+        padding:initial;
+        width:100%;
+    }
+
+
+    .user{
+        font-size:15px;
+    }
+
+    .voice-text p{
+        text-align: left;
+        font-size:18px;
+    }
+
+
+
+    .ii{
+        margin: 0 auto;
+        width:60%;
+    }
+
+    .ii02{
+        margin: 0 auto;
+        width:100%;
+    }
+
+    .ii03{
+        margin: 0 auto;
+        width:90%; 
+    }
+
+    .footerkv{
+        padding-top:50px;
+    }
+
+
+
+.copy-right{
+    display:none;
+}
+
+
+
+.footer-list{
+    display:none;
+}
+
+.footer-list-sp ul{
+    padding-left:0px;
+}
+
+
+
+
+
+
+
+}
+
+@media(min-width:500px){
+    .spkv-image{
+        display:none;
+    }
+
+    .midashisp{
+        display:none;   
+    }
+
+    .takenoko-title-sp{
+        display:none; 
+    }
+
+    .natsumikan-title-sp{
+        display:none;  
+    }
+
+    .ichigo-title-sp{
+        display:none;
+    }
+
+    .title-sp{
+        display:none;
+    }
+
+    .nakanoyasai-sp{
+        display:none;
+    }
+
+
+    .cyukan{
+        margin-top:68px 30px 10px 30px;
+        padding:30px 180px;
+        font-size:23px;
+    }
+
+
+    .title_voicesp{
+        display:none;
+    }
+
+  
+        .footer-list-sp{
+            display:none;
+        } 
+        
+        .copy-right-sp{
+            display:none;
+        }
+                
+
+}
