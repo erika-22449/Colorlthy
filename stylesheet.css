@@ -1,0 +1,541 @@
+
+
+body{
+    font-family:YuGothic;
+    position: relative;
+    
+}
+
+
+a{
+    text-decoration: none;
+
+}
+
+  header{
+      margin: auto;
+     
+      width:100%;
+      background-image: url(./pc/backgroundimage_01.jpg);
+      
+
+      
+  }
+
+
+
+
+
+  .logo-area{
+      text-align: center;
+
+  }
+
+  .header-logo{
+      
+      padding-top: 82px;
+      width:120px;
+
+  }
+
+  .kv-area{
+      max-width: 1000px;
+      margin: auto;
+    text-align: center;
+  
+    
+  }
+
+  .kv-image{
+      width:100%;
+  }
+
+  .spkv-image{
+    width:80%;
+  }
+
+
+  .btn-area{
+      margin:0 auto;
+    
+     
+     
+  }
+  
+
+  .btn{
+      display: inline-block;
+      padding:20px 100px;
+      
+      border-radius: 40px;
+      background-color:#ff4c42;
+      color:white;
+      font-size:200%;
+      box-shadow:0px 15px #ba0902;
+  }
+
+  .btn:active{
+    box-shadow: none;
+    position: relative;
+    top:15px;
+}
+
+.cyumon{
+    margin-top:20px;
+}
+
+.sokyubtn{
+    margin-bottom:100px;
+}
+
+
+
+  .concept-area{
+    
+    background: url(./pc/backgroundimage02.jpg)center top/cover no-repeat;
+    text-align: center;
+
+  }
+
+.midashipc{
+    padding-top:150px;
+    text-align: center;
+    width:70%;
+    
+    
+}
+
+.midashisp{
+    padding-top:40px;
+    text-align: center;
+    width:80%;
+    
+}
+
+.concept-area-contena{
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+
+    padding-bottom:200px;
+}
+
+
+
+.concept-box{
+    width: 70%;
+    
+    margin:0 auto;
+    
+    display:flex;
+    flex-direction:row;
+    
+    padding-top:60px;
+    padding-bottom:170px;
+}
+
+.graph img{
+    width:100%;
+    
+}
+
+.concept-text{
+    font-size:16px;
+    text-align: left;
+    line-height: 30px;
+    width:70%;
+    padding-right:30px;
+}
+
+
+.present-area{
+    
+    width:100%;
+
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.contaner{
+    
+    width:100%;
+}
+
+.present-title{
+    margin: 0 auto;
+    text-align: center;
+    width:80%;
+    padding-bottom:120px;
+}
+
+.title{
+    width:40%;
+}
+
+
+.present:nth-child(odd){
+    flex-direction: row-reverse;
+  }
+
+
+
+.contaner{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+.takenoko-text{
+    font-size:16px;
+    padding:47px 54px;
+    width:50%;
+}
+
+
+.present-takenoko{
+margin: 0 auto;
+width:80%;
+
+background-color: #f6f2ed;
+border-radius: 40px;
+
+
+display:flex;
+
+}
+
+.takonoko-image{
+    width:50%;
+    
+    
+}
+
+.takenoko-title-pc{
+    width:100%;
+}
+
+.sizuru{
+    width:100%;
+}
+
+
+
+.titlesp{
+    width:234px;
+    text-align: center;
+}
+
+.titlespichigo{
+    width:210px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.present-natsumikan{
+    width:80%;
+    background-color: #f6f2ed;
+    border-radius: 40px;
+   
+    margin:  80px auto;
+    display:flex;
+    
+    }
+
+    .natsumikan-image{
+        width:50%;
+    }
+    
+  
+    
+    .natsumikan-text{
+        width:50%;
+        font-size:16px;
+        padding:47px 54px;
+    }
+
+    .natsumikan-title-pc{
+        width:100%;
+    }
+
+
+
+
+
+
+    
+    .ichigo-takenoko{
+    width:80%;
+    background-color: #f6f2ed;
+    border-radius: 40px;
+    
+    margin:  auto;
+    display:flex;
+    
+    }
+
+
+    .ichigo-text{
+        width:50%;
+        font-size:16px;
+        padding:47px 54px;
+    }
+
+
+    .ichigo-title-pc{
+        width:100%;
+    }
+
+
+    .contents-area{
+        
+        background: url(./pc/background-image03.jpg)center top/cover no-repeat;
+
+    }
+
+    .contents-area-contena{
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .nakanoyasai-pc{
+        width:80%;
+    }
+
+    .nakanoyasai-sp{
+        width:80%;
+    }
+
+    .contents-title{
+        text-align: center;
+        padding-top:207px;
+    }
+
+    .title-pc{
+       text-align: center;
+       width:50%;
+       
+    }
+
+
+    .contents-list{
+        text-align: center;
+        padding-top:87px;
+    }
+
+    .cyukan-btn{
+        text-align: center;
+
+      }
+
+      .cyukan{
+          margin-top:68px;
+          margin-bottom:100px;
+          
+      }
+
+      .center-line{
+        display: flex;
+        align-items: center;
+      }
+
+      
+
+
+
+
+.voice-area{
+    
+    
+    
+    margin:0 auto;
+    text-align: center;
+    
+}
+
+.voice-background{
+    margin:0 auto;
+    text-align: center;
+    width:100%;
+    
+    
+    
+    
+    background:url(./pc/backgroundimage-05.png)center top/cover no-repeat;
+    background-size:cover;
+}
+
+.voice-wrapper{
+    width:100%;
+    margin:0 auto;
+}
+
+
+
+
+.contena2{
+    max-width: 1000px;
+    width:100%;
+    margin: auto;
+}
+
+.voice{
+    
+    margin: 0 auto;
+    
+    
+    
+   
+}
+
+.voice-01{
+    width:80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.voice-02{
+    width:80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.voice-03{
+    width:80%;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 95px;
+}
+
+.voice-title{
+    text-align: center;
+    padding-top:95px;
+    padding-bottom:154px;
+
+}
+
+
+.voice-text{
+    width:50%;
+    text-align: left;
+    
+    padding:47px 54px;
+}
+
+
+
+
+
+
+
+.voice-image{
+    width:50%;
+}
+
+.aa{
+    width:100%;
+}
+
+
+.ii02{
+width:90%;
+
+}
+
+.ii03{
+    width:90%;
+}
+.title_voicepc{
+    text-align: center;
+    width:50%;
+}
+
+
+
+.user{
+    font-size: 12px;
+    text-align:right;
+}
+
+.sokyu-area{
+    
+    background: url(./pc/backgroundimage-04.jpg)center top/cover no-repeat;
+    text-align: center;
+}
+
+.sokyu-area-contena{
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footerkv{
+    width:80%;
+    padding-top:100px;
+}
+
+
+
+.footer{
+    background: url(./pc/footer-image.jpg)center top/cover no-repeat;
+}
+
+.footer-area{
+
+    max-width: 1000px;
+width:80%;
+margin:0 auto ;
+color:white;
+
+
+
+}
+
+
+
+.footer-list{
+    float:left;
+}
+
+.footer-list li{
+    list-style: none;
+    float:left;
+    padding-right:70px;
+    padding-top:50px;
+}
+
+
+.footer-list-sp{
+    padding-top:20px;
+}
+.footer-list-sp li{
+    list-style: none;
+    color:white;
+    padding-bottom:5px;
+
+}
+
+.copy-right{
+    padding-top:50px; 
+    padding-bottom:50px;
+    text-align:right;
+}
+
+.copy-right-sp{
+    background-color: #323232;
+    text-align: center;
+    padding:10px 0;
+    font-size:20%;
+    color:white;
+}
+
